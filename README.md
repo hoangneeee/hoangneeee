@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[VNPass SJC]**
-- 🌱 I'm graduated from **[Post and Telecommunications Technology University Ha Noi]**
-- How to reach me: **[levuthanhtung11@gmail.com]**
+- 🔭 I'm currently working on **VNPass SJC**
+- 🌱 I'm graduated from **Post and Telecommunications Technology University Ha Noi**
+- How to reach me: **levuthanhtung11@gmail.com** or telegram **[hoangneee](https://t.me/hoangneee)**
 
 ## 🛠️ Languages and Tools
 
