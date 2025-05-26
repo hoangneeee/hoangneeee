@@ -1,4 +1,4 @@
-# Hi there, I'm [Henry Vo] 👋
+# Hi there, I'm Henry Vo 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Technical+Leader;Always+learning+new+things;Creating+amazing+projects!" alt="Typing SVG" />
