@@ -87,7 +87,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangneeee&repo=h-devops-cli-go&theme=radical&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/hoangneeee/sshr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangneeee&repo=projectdump&theme=radical&hide_border=true" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangneeee&repo=sshr&theme=radical&hide_border=true" alt="Project 2" />
   </a>
 </div>
 
